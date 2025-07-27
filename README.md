@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Nicolás Azuaga
 
-Soy desarrollador frontend y me interesa escribir código que no solo funcione, sino que sea mantenible, claro y escalable. Me gusta compartir aprendizajes sobre diseño de software y arquitectura en el día a día con React y TypeScript.
+Soy desarrollador frontend y me interesa escribir código que no solo funcione, sino que sea mantenible, claro y escalable. Me gusta enseñar y compartir aprendizajes sobre desarrollo de software y arquitectura en el día a día con React y TypeScript, tratando de bajar a tierra conceptos teóricos que pueden ser difíciles de asimilar.
 
 ---
 
