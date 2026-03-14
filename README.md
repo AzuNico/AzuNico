@@ -1,37 +1,61 @@
-# ¡Hola! 👋 Soy Nicolás Azuaga
+# Hola 👋 Soy Nicolás Azuaga
 
-Soy desarrollador frontend y me interesa escribir código que no solo funcione, sino que sea mantenible, claro y escalable. Me gusta enseñar y compartir aprendizajes sobre desarrollo de software y arquitectura en el día a día con React y TypeScript, tratando de bajar a tierra conceptos teóricos que pueden ser difíciles de asimilar.
+Software Engineer enfocado en diseño de software, arquitectura frontend y desarrollo asistido por inteligencia artificial.
+
+Me interesa construir sistemas que no solo funcionen, sino que puedan evolucionar en el tiempo: código mantenible, decisiones técnicas claras y arquitecturas pensadas para equipos reales.
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy un apasionado del diseño de software y las buenas prácticas en frontend. Creo que escribir código legible y testeable es clave para proyectos sostenibles y escalables. Pero también entiendo que el desarrollo de software es, ante todo, un trabajo humano: la colaboración, la comunicación y la empatía con quienes compartimos el proceso son tan importantes como la técnica.
+Trabajo principalmente en aplicaciones web y mobile, con experiencia en el ecosistema React y React Native. Con el tiempo, mi foco pasó de la implementación puntual al diseño del software: organización del código, separación de responsabilidades y construcción de sistemas escalables.
 
-Estoy en constante aprendizaje, aplicando conceptos de arquitectura limpia y buscando siempre mejorar tanto en lo técnico como en lo personal.
+Utilizo la inteligencia artificial como parte del proceso de desarrollo para explorar soluciones, acelerar la implementación y adaptarme a distintos stacks tecnológicos sin depender de un framework específico.
 
----
+Me interesa especialmente:
 
-## ⚙️ Tecnologías y herramientas que uso
+- Frontend Architecture
+- Clean Architecture aplicada al frontend
+- Diseño modular y mantenibilidad
+- Developer Experience
+- AI-assisted development
 
-- **Lenguajes:** JavaScript, TypeScript  
-- **Frameworks/Librerías:** React, React Native  
-- **Arquitectura:** Clean Architecture, patrones de diseño, testing  
-- **Herramientas:** Git, VS Code, ESLint, Prettier  
-
----
-
-## 📝 Dónde escribo
-
-- [Mi blog en dev.to](https://dev.to/azunico)  
-- [LinkedIn](https://www.linkedin.com/in/nicolás-azuaga-24909852)  
+Creo que el desarrollo de software es tanto un problema técnico como humano: la claridad, la comunicación y la colaboración son fundamentales para construir buenos sistemas.
 
 ---
 
-## 📫 Cómo contactarme
+## ⚙️ Tecnologías y herramientas
 
-- Email: azuaganicolas@gmail.com  
+**Lenguajes**
+- TypeScript, JavaScript
+
+**Ecosistema**
+- React, React Native
+
+**Arquitectura**
+- Clean Architecture
+- Patrones de diseño
+- Testing y diseño orientado a mantenibilidad
+
+**Herramientas**
+- Git
+- VS Code
+- ESLint / Prettier
+- AI-assisted development workflows
 
 ---
 
-Gracias por pasarte por aquí. Si te gusta el diseño de software en frontend, te invito a seguirme y acompañarme en este camino.
+## 📝 Escribo sobre desarrollo de software
+
+- https://dev.to/azunico
+- https://www.linkedin.com/in/nicolas-azuaga/
+
+---
+
+## 📫 Contacto
+
+- azuaganicolas@gmail.com
+
+---
+
+Si te interesa el diseño de software, la arquitectura frontend o cómo integrar IA en el desarrollo diario, bienvenido.
